@@ -1,4 +1,4 @@
-# e_api_neworder_buy_genbutsu.py
+# e_api_neworder_buy_genbutsu_pubkey.py
 公開鍵認証　現物買い注文
 
 ご注意！！ ================================
@@ -29,10 +29,10 @@
 
 
 
-４)実行は設定ファイルや「e_api_login_pkcs12.py」と同じディレクトリで実行してください。
+４)実行は設定ファイルや「e_api_login_pubkey.py」と同じディレクトリで実行してください。
 
 	事前に
-	e_api_login.py を実行
+	e_api_login_pubkey.py を実行
 	で、仮想URL（１日券）を取得しておいてください。
 
 ５）実行内容は、以下になります。
